@@ -8,13 +8,13 @@ function Home() {
       <h1>Home Page</h1>
       <Carousel showArrows={true} infiniteLoop={true} autoPlay={true} interval={3000}>
         <div>
-          <img src="/(1).png" alt="Slide 1" style={{ width: '100%', height: 'auto' }} />
+          <img src="/(1).png" alt="Slide 1" style={{ width: '80%', height: 'auto' }} />
         </div>
         <div>
-        <img src="/(2).png" alt="Slide 2" style={{ width: '100%', height: 'auto' }} />
+        <img src="/(2).png" alt="Slide 2" style={{ width: '80%', height: 'auto' }} />
         </div>
         <div>
-        <img src="/(3).png" alt="Slide 3" style={{ width: '100%', height: 'auto' }} />
+        <img src="/(3).png" alt="Slide 3" style={{ width: '80%', height: 'auto' }} />
         </div>
       </Carousel>
     </div>
